@@ -1,0 +1,4 @@
+AI Resume Analysis Result:
+Resume Score: 80%
+Matched Skills: Python, SQL, Excel, Data Visualization
+Missing Skills: Statistics
